@@ -1,5 +1,7 @@
 # plsqltools
 
+Send HTML mails with binary or text attachments from an oracle procedure.
+
 
 Usage for mailer:
 
